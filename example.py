@@ -21,7 +21,7 @@ cla_0_embedding = semantic_embeddings[0]
 
 # %%
 
-# Load acoustic features transformed with a trained Baseline model (architecture: FC-tanh-FC)
+# Load acoustic features transformed with a trained Baseline model (architecture: [FC-128, tanh, FC-300])
 
 example_partition = 'data/fold0_after.npz'
 
