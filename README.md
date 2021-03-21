@@ -21,3 +21,7 @@
 
 - *_after.npz
   - Transformed acoustic embeddings with a trained ZSL model (Baseline: [FC-128, tanh, FC-300]).
+
+#### 3. Baseline Model
+
+upcoming.
